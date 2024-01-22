@@ -22,15 +22,15 @@
 
 ## 🚩 Nội dung chính
 - [Structural Diagrams](#atm-structural-diagrams) 
-  - [Class Diagram](#-atm-class-diagram)
-  - [Object Diagram](#-atm-class-diagram)
-  - [Deployment Diagram](#-atm-object-diagram)
-  - [Component Diagram](#-atm-deployment-diagram)
-  - [Package Diagram](#-atm-component-diagram)
-- [Behavioral Diagrams](#-atm-behavioral-diagrams)
-  - [Usecase Diagram](#-atm-usecase-diagram)
-  - [Activity Diagram](#-atm-activity-diagram)
-  - [Sequence Diagram](#-atm-sequence-diagram)
+  - [Class Diagram](#atm-class-diagram)
+  - [Object Diagram](#atm-object-diagram)
+  - [Deployment Diagram](#atm-deployment-diagram)
+  - [Component Diagram](#atm-component-diagram)
+  - [Package Diagram](#atm-package-diagram)
+- [Behavioral Diagrams](#atm-behavioral-diagrams)
+  - [Usecase Diagram](#atm-usecase-diagram)
+  - [Activity Diagram](#atm-activity-diagram)
+  - [Sequence Diagram](#atm-sequence-diagram)
   
 ## ATM Structural Diagrams
 ### ATM Class Diagram
